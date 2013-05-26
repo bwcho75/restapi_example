@@ -1,6 +1,7 @@
 package terry.restapi.model;
 import javax.xml.bind.annotation.XmlRootElement;
 
+// index test
 @XmlRootElement(name="Contact")
 public class ContactVo {
 	String email;
