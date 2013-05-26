@@ -1,5 +1,7 @@
 package terry.restapi.service;
 
+// service
+
 import javax.ws.rs.GET;
 import javax.ws.rs.POST;
 import javax.ws.rs.PUT;
